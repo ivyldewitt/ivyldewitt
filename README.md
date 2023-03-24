@@ -1,4 +1,4 @@
-### Hi everyone!
+### Welcome
 
 I'm Ivy DeWitt, a data analyst with 8+ years of background in integration engineering, technical support and implementation management. 
 
