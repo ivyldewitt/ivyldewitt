@@ -1,13 +1,13 @@
 ### Welcome!
 
-🔭 I'm a data analyst with 8+ years of background in integration engineering, technical support and implementation management. 
+🔭 I'm a support engineer with 8+ years of background in integration engineering, technical support and implementation management. I have a passion for data science, information management and cybersecurity. I currently work as a client support engineer at CoreWeave.
 
 💬 Feel free to ask me about data governance and security. My passions is to learn how the massive amounts of data being created every moment can be processed in a secure and compliant way. I strongly believe that every corporation, government, or other entity that deals with data must move past passively consuming and using data for their own purposes, but responsibly manage and process that data. 
   * The process of taking in information and data and synthesizing it into a cohesive whole, whether that's working with others to devise project plans for a data delivery, composing technical documentation to share within my company, or training users on how to best understand a product and it's workflows fascinates me. 
 
-🌱  To expand my knowledge and further grow as a data analyst, I am pursuing a graduate degree in data science at the University of Berkeley, expected graduation in December 2024.
+🌱  To expand my knowledge and further grow as a data analyst, I am pursuing a graduate degree in data science at Drexel University.
 
-📫 If you'd like to connect outside of GitHub, you can reach me at my [iSchool email](idewitt@ischool.berkeley.edu) or [LinkedIn](https://www.linkedin.com/in/ivyleadewitt/).
+📫 If you'd like to connect outside of GitHub, you can reach me at my [iSchool email](ild28@drexel.edu) or [LinkedIn](https://www.linkedin.com/in/ivyleadewitt/).
 
 <!--
 **ivyldewitt/ivyldewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
